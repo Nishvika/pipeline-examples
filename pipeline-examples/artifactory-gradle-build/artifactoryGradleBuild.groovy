@@ -4,6 +4,7 @@ node {
     // Create an Artifactory Gradle instance.
     def rtGradle = Artifactory.newGradleBuild()
     def buildInfo
+    jsdjfjhbdjfbhjbdf
 
     stage('Clone sources') {
         git url: 'https://github.com/jfrogdev/project-examples.git'
